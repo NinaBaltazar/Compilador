@@ -1,3 +1,0 @@
-/Users/ninabaltazar/Desktop/Projects__/Compilador/build/CMakeFiles/comp.dir
-/Users/ninabaltazar/Desktop/Projects__/Compilador/build/CMakeFiles/edit_cache.dir
-/Users/ninabaltazar/Desktop/Projects__/Compilador/build/CMakeFiles/rebuild_cache.dir
